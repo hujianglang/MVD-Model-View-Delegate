@@ -1,0 +1,1 @@
+good project to learn qt mvc.
